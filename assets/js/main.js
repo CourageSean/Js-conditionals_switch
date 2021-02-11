@@ -101,7 +101,7 @@ function check() {
 
 let masse = document.getElementById("masse");
 let myList = document.getElementById("mylist");
-let briefPost = "<b>DHL Paket 10 kg</b>" + "<br>" + "bis 120 x 60 x 60 cm";
+let briefPost = "<b>Brief und Postkarte</b>" + "<br>" + "bis 120 x 60 x 60 cm";
 let dhlP2 = "<b>DHL Paket 2 kg</b>" + "<br>" + "bis 60 x 30 x 15 cm";
 let dhlP5 = "<b>DHL Paket 5 kg</b>" + "<br>" + "bis 120 x 60 x 60 cm";
 
